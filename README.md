@@ -15,7 +15,7 @@
 
 You can view the current deployment by clicking the link bellow:
 
-[Live Link]()
+[Live Link](https://rodata-tiktik.netlify.app/)
 ### Deployment
 
 - Using [Netlify](https://netlify.com)
