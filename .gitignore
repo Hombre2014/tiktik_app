@@ -2,12 +2,9 @@
 
 # dependencies
 node_modules
+sanity-tiktik-backend/node_modules
 /.pnp
 .pnp.js
-.env.development
-.development
-.env
-.env.production
 
 # testing
 /coverage
@@ -22,6 +19,9 @@ node_modules
 # misc
 .DS_Store
 *.pem
+.env
+.env.production
+.env.development
 
 # debug
 npm-debug.log*
@@ -37,4 +37,3 @@ yarn-error.log*
 
 # typescript
 *.tsbuildinfo
-next-env.d.ts

@@ -63,7 +63,7 @@ const VideoCard: NextPage<IProps> = ({ post }) => {
           className='rounded-3xl'
           onMouseEnter={() => setIsHover(true)}
           onMouseLeave={() => setIsHover(false)}>
-          <Link href='/'>
+          <Link href={`/detail/${post._id}`}>
             <video
               loop
               ref={videoRef}
