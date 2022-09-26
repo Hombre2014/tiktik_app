@@ -1,34 +1,45 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# Yuriy Chamkoriyski's TikTok clone
 
-## Getting Started
+> TikTok clone using React, Sanity and zustand.
+## Built With
 
-First, run the development server:
+- Major languages: JavaScript, React
+- Backend: Sanity
+- Framework: Tailwind
+- Tools used: zustand
+## Screenshots
 
-```bash
-npm run dev
-# or
-yarn dev
-```
+![Home](/utils/Home.png)
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+## Live Link
 
-You can start editing the page by modifying `pages/index.tsx`. The page auto-updates as you edit the file.
+You can view the current deployment by clicking the link bellow:
 
-[API routes](https://nextjs.org/docs/api-routes/introduction) can be accessed on [http://localhost:3000/api/hello](http://localhost:3000/api/hello). This endpoint can be edited in `pages/api/hello.ts`.
+[Live Link]()
+### Deployment
 
-The `pages/api` directory is mapped to `/api/*`. Files in this directory are treated as [API routes](https://nextjs.org/docs/api-routes/introduction) instead of React pages.
+- Using [Netlify](https://netlify.com)
+## Author
 
-## Learn More
+👤 **Yuriy Chamkoriyski**
 
-To learn more about Next.js, take a look at the following resources:
+- GitHub: [@Hombre2014](https://github.com/Hombre2014)
+- Twitter: [@Chamkoriyski](https://twitter.com/Chamkoriyski)
+- LinkedIn: [axebit](https://linkedin.com/in/axebit)
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+## 🤝 Contributing
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Contributions, issues, and feature requests are welcome!
 
-## Deploy on Vercel
+Feel free to check the [issues page](https://github.com/Hombre/tiktik_app/issues).
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+## Show your support
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+Give a ⭐️ if you like this project!
+
+## Acknowledgments
+
+Thanks to JavaScript Mastery for inspirational [video](https://www.youtube.com/watch?v=CcBHZ0t2Qwc).
+## 📝 License
+
+This project is [MIT](./license.md) licensed.
