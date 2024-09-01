@@ -1,12 +1,14 @@
 # Yuriy Chamkoriyski's TikTok clone
 
 > TikTok clone using React, Sanity and zustand.
+
 ## Built With
 
-- Major languages: JavaScript, React
+- Major languages: TypeScript, React
 - Backend: Sanity
 - Framework: Tailwind
 - Tools used: zustand
+
 ## Screenshots
 
 ![Home](/utils/Home.png)
@@ -16,9 +18,11 @@
 You can view the current deployment by clicking the link bellow:
 
 [Live Link](https://rodata-tiktik.netlify.app/)
-### Deployment
+
+## Deployment
 
 - Using [Netlify](https://netlify.com)
+
 ## Author
 
 👤 **Yuriy Chamkoriyski**
@@ -40,6 +44,7 @@ Give a ⭐️ if you like this project!
 ## Acknowledgments
 
 Thanks to JavaScript Mastery for inspirational [video](https://www.youtube.com/watch?v=CcBHZ0t2Qwc).
+
 ## 📝 License
 
 This project is [MIT](./license.md) licensed.
